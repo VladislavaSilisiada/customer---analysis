@@ -1,2 +1,2 @@
 # customer---analysis
-В цій роботі було зібрано та очищено дані, які допоможуть аналізувати динаміку створення акаунтів, активність користувачів за листами (відправлення, відкриття, переходи), а також оцінювати поведінку в категоріях, таких як інтервал відправлення, верифікація акаунтів і статус підписки. Дані дозволять порівнювати активність між країнами, визначати ключові ринки, сегментувати користувачів за різними параметрами.
+A data analytics project that aggregates account-creation data and user email activity (sends, opens, clicks). The dataset includes send-interval metrics, account verification status, and subscription status. It supports user segmentation and country-level comparisons to identify key markets and understand engagement patterns.
