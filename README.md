@@ -35,7 +35,7 @@ rank_total_country_sent_cnt
 **7. Final Query**
 Purpose: Selects all calculated metrics and filtering the results to include only the Top 10 countries by either total accounts or total emails sent.
 
-The full SQL script is provided below: [`sql code`](./sql code)
+The full SQL script is provided below: [`sql/customer.sql`](./sql/customer.sql).
 
 Filter Condition: WHERE rank_total_country_account_cnt <= 10 OR rank_total_country_sent_cnt <= 10
 
